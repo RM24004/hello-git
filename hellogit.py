@@ -1,2 +1,4 @@
-print("Hello, Git!")
+print("Nuevo Hello, Git!")
 print("Que tal esta el curso de Git?")
+print("Esta Edicion es para la Tercera fotografia del curso de Git")
+print("Ahora probaremos el reste en ambos archivos")
