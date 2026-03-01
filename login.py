@@ -1,4 +1,4 @@
-print ("login del programa")
+print ("login del programa version 1.0")
 while True:
     print("ingrese su usuario")
     usuario = input()   
