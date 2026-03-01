@@ -13,5 +13,14 @@
       * diff
       * stash
       * faltan muchos mas
-    
+      * aprendimos los flow
+      * tambien los markdown
+      
+  *  tambien hemos aprendido la interfaze de github
+      * los fork
+      * los pullrequest
+      
 # cambios pendientes *****
+
+## ya se hizo el ejercicio con exito y sin problemas
+

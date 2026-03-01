@@ -7,3 +7,4 @@ print("agregamos mas lineas ya que hoy trabajamos con github subiendo archivos")
 # agregamos mas lineas ya que hoy trabajamos con github subiendo archivos
 
 print("ahora probaremos el push y subida a github")
+print("ahora probaremos como usar la app de github para subir los archivos")

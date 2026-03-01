@@ -18,13 +18,16 @@ while True:
         seleccion = input()
         if seleccion == "1":
             print("Has seleccionado la Función 1.")
+            print("Esta función aún no está disponible. ¡Próximamente!")
             # Aquí puedes agregar el código para la Función 1
         elif seleccion == "2":
             print("Has seleccionado la Función 2.")
+            print("Esta función aún no está disponible. ¡Próximamente!")
             # Aquí puedes agregar el código para la Función 2
         elif seleccion == "3":
             print("Has seleccionado la Función 3.")
             # Aquí puedes agregar el código para la Función 3
+            print("Esta función aún no está disponible. ¡Próximamente!")
         elif seleccion == "4":
             print(" Saliendo del programa. ¡Hasta luego!")
         break
