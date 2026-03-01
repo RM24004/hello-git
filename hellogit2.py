@@ -1,2 +1,2 @@
 print ("hello git 2. py")
-print("ahora probaremos el reste en ambos archivos")
+print("vamos a crear tags en git y a crear ramas en git")
