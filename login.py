@@ -16,6 +16,17 @@ while True:
         print("4. Salir")
         print("Selecciona una opción:")
         seleccion = input()
+        if seleccion == "1":
+            print("Has seleccionado la Función 1.")
+            # Aquí puedes agregar el código para la Función 1
+        elif seleccion == "2":
+            print("Has seleccionado la Función 2.")
+            # Aquí puedes agregar el código para la Función 2
+        elif seleccion == "3":
+            print("Has seleccionado la Función 3.")
+            # Aquí puedes agregar el código para la Función 3
+        elif seleccion == "4":
+            print("Saliendo del programa. ¡Hasta luego!")
         break
     else:
         print("Usuario o contraseña incorrectos. Inténtalo de nuevo.")      
