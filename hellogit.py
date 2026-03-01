@@ -3,3 +3,7 @@ print("Que tal esta el curso de Git?")
 print("Esta Edicion es para la Tercera fotografia del curso de Git")
 print("Ahora probaremos el reste en ambos archivos")
 print("agregamos mas lineas ya que hoy trabajamos con github subiendo archivos")
+# agregamos mas lineas ya que hoy trabajamos con github subiendo archivos
+# agregamos mas lineas ya que hoy trabajamos con github subiendo archivos
+
+print("ahora probaremos el push y subida a github")
