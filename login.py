@@ -26,7 +26,7 @@ while True:
             print("Has seleccionado la Función 3.")
             # Aquí puedes agregar el código para la Función 3
         elif seleccion == "4":
-            print("Saliendo del programa. ¡Hasta luego!
+            print(" Saliendo del programa. ¡Hasta luego!")
         break
     else:
         print("Usuario o contraseña incorrectos. Inténtalo de nuevo.")      
